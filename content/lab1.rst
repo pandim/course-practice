@@ -23,7 +23,7 @@
 
 Запишите выражение, заданное формулой, в виде, подходящем для языка Python.
 
-.. image:: {filename}/images/lab1/task1.png
+.. image:: /images/lab1/task1.png
    :width: 50%
 
 и найдите его значения в точках 1, 10, 1000.
